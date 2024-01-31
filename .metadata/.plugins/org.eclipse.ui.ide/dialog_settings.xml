@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+<<<<<<< HEAD
 	<section name="SmartImportWizard">
 		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
@@ -10,6 +11,8 @@
 			<item value="C:\Users\rachi\gitdemoTest1"/>
 		</list>
 	</section>
+=======
+>>>>>>> 8a705186968683f9870b0072bce4e04ec4d50ef5
 	<section name="ExternalProjectImportWizard">
 		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
@@ -18,12 +21,16 @@
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
 			<item value="C:\Users\rachi\1GitTest"/>
+<<<<<<< HEAD
 			<item value="C:\Users\rachi\Git1 folder 1"/>
+=======
+>>>>>>> 8a705186968683f9870b0072bce4e04ec4d50ef5
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
 		</list>
 	</section>
+<<<<<<< HEAD
 	<section name="ChooseWorkspaceDialogSettings">
 		<item key="DIALOG_X_ORIGIN" value="611"/>
 		<item key="DIALOG_Y_ORIGIN" value="269"/>
@@ -32,4 +39,6 @@
 		<list key="ENABLED_TRANSFERS">
 		</list>
 	</section>
+=======
+>>>>>>> 8a705186968683f9870b0072bce4e04ec4d50ef5
 </section>

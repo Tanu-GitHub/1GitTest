@@ -36,7 +36,11 @@ public class LandingPageStepDefination extends BaseTest{
 		testcontextsetup.driver.get("https://rahulshettyacademy.com/seleniumPractise/#/");
 		
 		System.out.println("outputgiven");
+
 		System.out.println("gitpc1");
+
+		System.out.println("1GitTest");
+
 	}
 	@When("User searched with shortname {string} and extracted with original product")
 	public void user_searched_with_short_name_and_extracted_with_original_product(String shortname) throws IOException, InterruptedException{
